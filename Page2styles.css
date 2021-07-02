@@ -1,0 +1,77 @@
+.Title {
+    font-size: 55px;
+    color: black;
+    font-weight: bolder;
+    text-underline-position: below;
+    outline: 0ch;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-bottom-right-radius: 10cm;
+    border-bottom-left-radius: 10cm;
+    border-top-left-radius: 10cm;
+    border-top-right-radius: 10cm;
+    border: 0.25cm;
+    border-style: solid;
+    border-color: rgb(178, 63, 70);
+    border: 10px ridge  rgb(178, 63, 70);
+    /* font-style: oblique; */
+}
+
+.SubHeading {
+    font-size: 18px;
+    color: rgb(178, 63, 70);
+    border-image-outset: 3cm;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-weight: bold;
+}
+
+
+
+#link {
+    color:blue;
+    text-underline-position: below;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.RightImage{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: right;
+    color:black;
+    font-weight: bold;
+}
+.LeftImage{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+}
+
+#w3-tag{
+    font-size: 35px;
+    color: white;
+    /* font-weight: bold; */
+    font-family:'Times New Roman', Times, serif ;
+    background-color:rgb(178, 63, 70);
+}
+.tags{
+    text-align: center;
+}
+img{
+    /* height: 500px;
+    width: 600px; */
+    border: 10px ridge rgb(178, 63, 70);
+    border-bottom-right-radius: 0.5cm;
+    border-bottom-left-radius: 0.5cm;
+    border-top-left-radius: 0.5cm;
+    border-top-right-radius: 0.5cm;
+    }
+html {
+    background-color: rgb(255, 202, 96);
+}
+#Bottom{
+    text-align: center;
+}
